@@ -1,0 +1,115 @@
+body {
+ background: rgb(104, 187, 285);
+ 
+}
+img {
+	width: 100%;
+}
+
+#header {
+
+	background-color: blue;
+	width: 98%;
+	margin: 0 auto;
+	margin-top: 20px;
+	margin-bottom: 20px;
+	height: 40px;
+	text-align: center;
+	background: rgb(80, 100, 285);
+
+}
+
+
+/*container style*/
+
+#container {
+	width: 98%;
+	margin: 0 auto;
+	height: 920px;
+    background: rgb(80, 100, 285);
+}
+
+/*left-box style*/
+
+#left-box{
+	width: 25%;
+	float: left;
+	height: 900px;
+	margin: 10px;
+	background-color: rgb(9, 30, 45);
+	color: white;
+}
+
+#profil{
+	    text-align: center;
+
+
+}
+
+#contacts{
+
+}
+
+#languagesSkills{
+
+}
+
+#hobbies{
+
+}
+
+/*right-box style*/
+#right-box{
+	width: 70%;
+	float: right;
+	height: 900px;
+	margin: 10px 10px 10px 0px;
+	background-color: rgb(9, 30, 45);
+}
+
+span{
+
+	float: right;
+}
+
+/*experiences-box style*/
+#experiences-box{
+	height: 400px;
+	margin: 70px 10px 10px 10px;
+	background-color: white;
+}
+
+.experience{
+	height: 150px;
+	margin: 10px 10px 10px 10px;
+	background-color: rgb(9, 30, 45);
+	color: white;
+
+}
+
+/*studies-box styles*/
+#studies-box{
+	height: 400px;
+	margin: 10px;
+	background-color: white;
+}
+
+.study{
+	height: 150px;
+	margin: 10px 10px 10px 10px;
+	background-color: rgb(9, 30, 45);
+	color: white;
+	
+}
+
+/*footer Styles*/
+
+#footer{
+	width: 98%;
+	margin: 0 auto;
+	margin-top: 20px;
+	margin-bottom: 20px;
+	height:20px;
+	background: rgb(80, 100, 285);
+	text-align: center;
+}
